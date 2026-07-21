@@ -82,7 +82,7 @@
 <br>
 
 <!-- <!== EDITE: um item por projeto. Troque nome, link e descrição. ==> -->
-- **[J.A.R.V.I.S]([https://github.com/NinjaZinS2/jarvis-releases])** — o que é, em uma linha. _WebSocket · E2E · P2P_
+- **[J.A.R.V.I.S]([https://github.com/NinjaZinS2/jarvis-releases])** — agente orquestrador de ações no seu computador - seguro, pratico e multifuncional
 - **[Outro Projeto](https://link-do-projeto.com)** — descrição curta do que ele faz.
 - **[Mais um](https://link.com)** — descrição curta.
 
