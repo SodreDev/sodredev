@@ -34,7 +34,7 @@
 
 <!-- <!== EDITE: troque pelos seus links reais ==> -->
 <p>
-<a href="https://github.com/SEU-USUARIO"><img src="https://img.shields.io/badge/GitHub-0d0620?style=for-the-badge&logo=github&logoColor=2ee6ff"></a>
+<a href="https://github.com/NinjaZinS2"><img src="https://img.shields.io/badge/GitHub-0d0620?style=for-the-badge&logo=github&logoColor=2ee6ff"></a>
 <a href="#"><img src="https://img.shields.io/badge/Contato-ff45e0?style=for-the-badge&logo=maildotru&logoColor=white"></a>
 </p>
 
