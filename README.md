@@ -83,8 +83,6 @@
 
 <!-- <!== EDITE: um item por projeto. Troque nome, link e descrição. ==> -->
 - **[J.A.R.V.I.S]([https://github.com/NinjaZinS2/jarvis-releases])** — agente orquestrador de ações no seu computador - seguro, pratico e multifuncional
-- **[Outro Projeto](https://link-do-projeto.com)** — descrição curta do que ele faz.
-- **[Mais um](https://link.com)** — descrição curta.
 
 </details>
 
@@ -106,7 +104,7 @@
 
 <!-- <!== EDITE: troque SEU-USUARIO pelo seu @ do GitHub em TODAS as URLs abaixo ==> -->
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=true&bg_color=0d0620&title_color=2ee6ff&icon_color=ff45e0&text_color=e8e0ff">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nada por enquanto&show_icons=true&hide_border=true&bg_color=0d0620&title_color=2ee6ff&icon_color=ff45e0&text_color=e8e0ff">
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true&bg_color=0d0620&title_color=2ee6ff&text_color=e8e0ff">
 </div>
 
@@ -117,9 +115,9 @@
 <br>
 
 <!-- <!== EDITE: adicione seus links reais ==> -->
-- 🌐 Site / Portfolio — **[link](https://seu-site.com)**
-- 💬 Discord / X / LinkedIn — **[link](https://link.com)**
-- ✉️ E-mail — **[voce@email.com](mailto:voce@email.com)**
+- 🌐 Site / Portfolio — **[link](vazio por enquanto)**
+- 💬 Discord / X / LinkedIn — **[vazio por enquanto](vazio por enquanto)**
+- ✉️ E-mail — **[vazio por enquanto](vazio por enquanto)**
 
 </details>
 
