@@ -31,7 +31,7 @@ Redes, tempo real e segurança são onde eu moro.</p>
 </p>
 
 <p>
-<a href="https://github.com/NinjaZinS2?tab=repositories">
+<a href="https://github.com/SodreDev?tab=repositories">
   <img src="https://img.shields.io/badge/Ver_projetos-2ec4ff?style=for-the-badge&logo=github&logoColor=0a0e15" alt="Ver projetos">
 </a>
 </p>
