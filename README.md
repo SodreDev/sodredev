@@ -1,6 +1,6 @@
 <!--
   ============================================================
-  README DE PERFIL — Sodré (NinjaZinS2)
+  README DE PERFIL — Sodré (SodreDev)
   Repositório com o MESMO nome do usuário do GitHub.
   Arquivos na raiz: README.md, banner.svg, terminal.svg
   Onde você edita depois está marcado com  <!-- EDITE -->
@@ -67,7 +67,7 @@ Redes, tempo real e segurança são onde eu moro.</p>
 <tr>
 <td width="50%" valign="top">
 
-### 🎵 [Remix Player](https://github.com/NinjaZinS2/Remix-Linux)
+### 🎵 [Remix Player](https://github.com/SodreDev/Remix-Linux)
 `C++` · `raylib` · `miniaudio` · `redes`
 
 Player de música multiplataforma. O interessante está por baixo: um **servidor HTTP embarcado** que
@@ -97,7 +97,7 @@ e **transmissão de tela**.
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [J.A.R.V.I.S](https://github.com/NinjaZinS2/jarvis-releases)
+### 🤖 [J.A.R.V.I.S](https://github.com/SodreDev/jarvis-releases)
 `Python` · `Multi-LLM` · `Windows`
 
 Assistente de IA para desktop por voz, texto ou gestos. **Orquestra vários LLMs** (OpenAI, Groq, Gemini)
@@ -159,8 +159,8 @@ erro.
 <br>
 
 <div align="center">
-<img height="165" alt="stats" src="https://github-readme-stats.vercel.app/api?username=NinjaZinS2&show_icons=true&hide_border=true&bg_color=0a0e15&title_color=2ec4ff&icon_color=3ad67f&text_color=cdd9e5">
-<img height="165" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NinjaZinS2&layout=compact&hide_border=true&bg_color=0a0e15&title_color=2ec4ff&text_color=cdd9e5&langs_count=6">
+<img height="165" alt="stats" src="https://github-readme-stats.vercel.app/api?username=SodreDev&show_icons=true&hide_border=true&bg_color=0a0e15&title_color=2ec4ff&icon_color=3ad67f&text_color=cdd9e5">
+<img height="165" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SodreDev&layout=compact&hide_border=true&bg_color=0a0e15&title_color=2ec4ff&text_color=cdd9e5&langs_count=6">
 </div>
 
 </details>
@@ -169,7 +169,7 @@ erro.
 <summary><b>📫 Contato · Contact</b></summary>
 <br>
 
-- 💬 **GitHub** — abra uma issue ou me siga: **[@NinjaZinS2](https://github.com/NinjaZinS2)**
+- 💬 **GitHub** — abra uma issue ou me siga: **[@SodreDev](https://github.com/SodreDev)**
 <!-- EDITE (opcional): adicione só canais PROFISSIONAIS. Ex.:
 - ✉️ **E-mail** — sodre.dev@exemplo.com  (crie um só para isso, não o pessoal)
 - 💼 **LinkedIn** — https://linkedin.com/in/...
